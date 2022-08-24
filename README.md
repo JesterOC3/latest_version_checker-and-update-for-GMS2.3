@@ -1,2 +1,3 @@
-# latest_version_checker-for-GMS2
-WRITTEN IN GML - REQUIRES HOSTING A FILE
+Latest Version Check and Update
+via
+HTTP REST GITHUB .
