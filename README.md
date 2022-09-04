@@ -8,6 +8,7 @@ see (https://marketplace.yoyogames.com/assets/11159/latest-version-check-and-upd
 
 for an up to date version (v3.0.0 on marketplace as of writing).
 
+
 example inside the file (jesteroc-latest-version-checker-extended.yyz)
 
 
